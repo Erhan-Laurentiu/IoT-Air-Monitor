@@ -1,0 +1,1 @@
+"./BME280.obj" "./CCS811.obj" "./Delay.obj" "./I2C.obj" "./MAX44009.obj" "./UART0.obj" "./UART1.obj" "./main.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
